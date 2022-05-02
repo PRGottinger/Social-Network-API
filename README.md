@@ -25,3 +25,17 @@ Paul Gottinger [Github](https://github.com/PRGottinger) [Email](pgottinger@mail.
 ## License
 
 ![MIT](https://img.shields.io/badge/MIT-license-green)
+
+## Walkthrough Videos
+
+User Route:
+https://drive.google.com/file/d/1iFa8bqbhSCSRhkRZQuJLo30oWwcMs1IN/view
+
+Thought Routes:
+https://drive.google.com/file/d/1AQprlVSP5UK1ssXODBB1Q1a8-y4xWX9y/view
+
+Reaction Routes:
+https://drive.google.com/file/d/1VwXVzMhRKLJiTz5-ITbm7qvpQuS6xAI6/view
+
+Friend Routes:
+https://drive.google.com/file/d/1I1ESfwWyeMU2bvim9BQdRp4M6nlvVL6g/view
